@@ -4,4 +4,4 @@ ADD ./webapp/target/*.war C:/Users/mihaela.stoica/Documents/apache-tomcat-8.5.37
 
 EXPOSE 8080
 
-CMD ["catalina.sh", "run"]
+CMD ["C:/Users/mihaela.stoica/Documents/apache-tomcat-8.5.37/apache-tomcat-8.5.37/bin/catalina.sh", "run"]
